@@ -20,7 +20,7 @@ body{
  
 .pole{
   background-color: var(--primary-light);
-  height: 9rem;
+  height: 5rem;
   width: 3rem;
   margin:auto;
 }
@@ -31,15 +31,16 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  height: 400px;
-  width: 150px;
+  height: 35rem;
+  width: 15rem;
   margin:auto;
+  border-radius: 10%;
 }
 
 .light{
   border-radius: 50%;
-  height: 80px;
-  width: 80px;
+  height: 10rem;
+  width: 10rem;
   position: relative;
 }
 
