@@ -48,21 +48,21 @@ body{
 }
 
 .red:hover{
-    box-shadow:0 0 1.5rem red;
+    box-shadow:0 0 1.5rem 1em red;
 }
 
 .yellow{
   background-color: var(--primary-yellow);
 }
 .yellow:hover{
-  box-shadow:0 0 1.5rem yellow;
+  box-shadow:0 0 1.5rem 1em yellow;
 }
 
 .green{
   background-color: var(--primary-green);
 }
 .green:hover{
-  box-shadow:0 0 1.5rem green;
+  box-shadow:0 0 1.5rem 1em green;
 }
 
 .d-flex{
